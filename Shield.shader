@@ -1,5 +1,5 @@
 /*
-	バリアシェーダー by あるる（きのもと 結衣）
+	魔法防御シェーダー by あるる（きのもと 結衣）
 	Magical Shield Shader by Yui Kinomoto @arlez80
 
 	MIT License
